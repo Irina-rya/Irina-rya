@@ -1,8 +1,8 @@
 👋 Hi, I’m Irina.
 
-👀 I’m interested in Big Data, Python, Languages and Travelling, Workouts in the Gym.
+👀 I’m interested in Big Data, Python, Data Science.
 
-🌱 I’m currently learning Python, his libraries like Pandas, Numpy etc and some machine learning libraries too like Tensorflow, NLTK etc. Next step is SQL!
+🌱 I’m currently learning Python, his libraries like Pandas, Numpy etc and some machine learning libraries too like Tensorflow, NLTK etc. Next step of learning is SQL!
 
 <!---
 - 💞️ I’m looking to collaborate on ...
