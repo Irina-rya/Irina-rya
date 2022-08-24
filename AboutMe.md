@@ -2,7 +2,7 @@
 
 👀 I’m interested in Big Data, Python, Languages and Travelling, Workouts in the Gym.
 
-🌱 I’m currently learning Python libraries like Pandas, Numpy etc and some machine learning libraries too like Tensorflow, NLTK etc. Next step is SQL!
+🌱 I’m currently learning Python, his libraries like Pandas, Numpy etc and some machine learning libraries too like Tensorflow, NLTK etc. Next step is SQL!
 
 <!---
 - 💞️ I’m looking to collaborate on ...
