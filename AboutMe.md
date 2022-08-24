@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on ...
 --->
 
-📫 If you are looking any collaboration, you may reach me here: www.linkedin.com/in/irina-riabtceva"
+📫 If you are looking any collaboration, you may reach me here: www.linkedin.com/in/irina-riabtceva
 
 <!---
 Irina-rya/Irina-rya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
